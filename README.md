@@ -5,4 +5,4 @@ client.py
 run it in split terminal for aes and normal encryption 
 
 
-tc1 and ts1 for quantumn encrption 
+ts1 and tc1 for quantumn encrption 
